@@ -52,10 +52,10 @@ src/main/java/com/guiferr/productapi
 ## ▶️ Como executar
 
 1. Clonar o repositório:
-git clone https://github.com/GuiFerr4z/portfolio.git
+   git clone https://github.com/GuiFerr4z/portfolio.git
 
 2. Acessar o projeto:
-cd product-api
+   cd product-api
 
 3. Rodar a aplicação:
 - Via IntelliJ (Run)
@@ -96,7 +96,7 @@ Correção em andamento.
 
 ## 👨‍💻 Autor
 
-Guilherme Rodrigues
+Guilherme Ferraz Rodrigues
 
 - LinkedIn: https://www.linkedin.com/in/guifrodrigues/
 - GitHub: https://github.com/GuiFerr4z
